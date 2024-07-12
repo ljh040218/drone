@@ -342,7 +342,3 @@ while true
 <img src="https://github.com/JJeongAA/JJ_team/assets/168095384/b5829a3c-930d-45e8-878e-980ea6a03c07">
 <img src="https://github.com/JJeongAA/JJ_team/assets/168095384/0c5dde05-132c-4ed0-88c7-edb7c02ee83b">
 </p>
-
-아래 이미지는 위 HSV 범위로 대회장 보라색 마커를 탐지하여 figure로 출력한 이미지입니다.
-<p align="center">
-<img src="https://github.com/JJeongAA/JJ_team/assets/168095384/b5829a3c-930d-45e8-878e-980ea6a03c07">
